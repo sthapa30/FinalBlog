@@ -9,7 +9,8 @@ Quick Read is a blog website in Django that can be used for sharing information 
 - Preview Recent articles
 - Comment on articles.
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/22757695/93666710-fcd92c80-fa45-11ea-9e01-8d597b5ad1ac.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/22757695/94878924-6b45c380-0424-11eb-9d1d-f0f419f5a94f.gif)
+
 
 
 **Tools Used:**
