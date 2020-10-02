@@ -3,7 +3,7 @@ Quick Read is a blog website in Django that can be used for sharing information 
 
 **General functionality:**
 
-- Authenticate users via Django Authentication (login/signup pages + logout button on settings page)
+- Authenticate users via Django Authentication (login/signup pages and logout)
 - CRUD Articles
 - GET and display paginated lists of articles
 - Preview Recent articles
