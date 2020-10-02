@@ -14,7 +14,7 @@ Quick Read is a blog website in Django that can be used for sharing information 
 
 **Tools Used:**
 
--Django
--HTML/CSS
--JavaScript
--BootStrap
+- Django
+- HTML/CSS
+- JavaScript
+- BootStrap
